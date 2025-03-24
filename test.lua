@@ -1,1 +1,1 @@
-print("HachChurka")
+print("1")
